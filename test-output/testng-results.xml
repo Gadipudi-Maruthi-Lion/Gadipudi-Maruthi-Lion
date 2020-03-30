@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13944" started-at="2020-03-12T13:43:39 IST" finished-at="2020-03-12T13:43:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13944" started-at="2020-03-12T13:43:39 IST" finished-at="2020-03-12T13:43:53 IST">
+      <class name="Com.qa.TestCases.loginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.qa.TestCases.loginTest@50b494a6]" name="setup" is-config="true" duration-ms="8441" started-at="2020-03-12T13:43:39 IST" finished-at="2020-03-12T13:43:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginToFlipkart()[pri:0, instance:Com.qa.TestCases.loginTest@50b494a6]" name="loginToFlipkart" duration-ms="3695" started-at="2020-03-12T13:43:48 IST" finished-at="2020-03-12T13:43:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFlipkart -->
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:Com.qa.TestCases.loginTest@50b494a6]" name="screenshot" duration-ms="4" started-at="2020-03-12T13:43:51 IST" finished-at="2020-03-12T13:43:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Com.qa.TestCases.loginTest@50b494a6]" name="close" is-config="true" duration-ms="1728" started-at="2020-03-12T13:43:51 IST" finished-at="2020-03-12T13:43:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Com.qa.TestCases.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
